@@ -6,7 +6,7 @@ OpenRPC displays your Roblox activity on Discord in real-time, showing your frie
 
 ## Documentation
 
-Full interactive documentation with examples: **[PLACEHOLDER - ADD DOCS LINK HERE]**
+Full interactive documentation with examples: [OpenRPC Docs](https://openrpc.netlify.app/)
 
 ## Features
 
