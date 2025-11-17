@@ -18,7 +18,7 @@ Full interactive documentation with examples: [OpenRPC Docs](https://openrpc.net
 - 4 built-in activity presets (Game, Custom, Minimal, Detailed)
 - Automatic executor and request function detection
 - Anti-detection with cloneref support
-- Comprehensive event system with callbacks
+- Built-in event system with callbacks
 - 5-level logging system (None, Error, Warn, Info, Debug)
 
 ## Quick Start
