@@ -1,4 +1,3 @@
-```markdown
 # OpenRPC
 
 A fully-typed Discord Rich Presence library for Roblox exploits with complete type safety and automatic updates.
@@ -546,4 +545,3 @@ If you encounter issues or have questions, please open an issue on GitHub.
 ---
 
 Star this repository if you find it useful!
-```
